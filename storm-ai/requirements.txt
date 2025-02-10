@@ -1,0 +1,4 @@
+streamlit==1.42.0
+openai==1.61.1  # Utilise une version compatible
+numpy
+pandas
